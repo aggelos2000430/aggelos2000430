@@ -1,5 +1,5 @@
-## Hey, i commited my life in the Foreign exchange trading and programming :boom:
-## Patience is the key
+## Hey, i commited my life in the Foreign exchange market and programming :boom:
+## Patience is the key 🔑
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aggelos2000430&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
